@@ -1,0 +1,13 @@
+C:\Users\pc\Downloads\Projeto\Aula04Celular\bin\Debug\netcoreapp3.1\Aula04Celular.exe
+C:\Users\pc\Downloads\Projeto\Aula04Celular\bin\Debug\netcoreapp3.1\Aula04Celular.deps.json
+C:\Users\pc\Downloads\Projeto\Aula04Celular\bin\Debug\netcoreapp3.1\Aula04Celular.runtimeconfig.json
+C:\Users\pc\Downloads\Projeto\Aula04Celular\bin\Debug\netcoreapp3.1\Aula04Celular.runtimeconfig.dev.json
+C:\Users\pc\Downloads\Projeto\Aula04Celular\bin\Debug\netcoreapp3.1\Aula04Celular.dll
+C:\Users\pc\Downloads\Projeto\Aula04Celular\bin\Debug\netcoreapp3.1\Aula04Celular.pdb
+C:\Users\pc\Downloads\Projeto\Aula04Celular\obj\Debug\netcoreapp3.1\Aula04Celular.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\Projeto\Aula04Celular\obj\Debug\netcoreapp3.1\Aula04Celular.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula04Celular\obj\Debug\netcoreapp3.1\Aula04Celular.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Projeto\Aula04Celular\obj\Debug\netcoreapp3.1\Aula04Celular.AssemblyInfo.cs
+C:\Users\pc\Downloads\Projeto\Aula04Celular\obj\Debug\netcoreapp3.1\Aula04Celular.dll
+C:\Users\pc\Downloads\Projeto\Aula04Celular\obj\Debug\netcoreapp3.1\Aula04Celular.pdb
+C:\Users\pc\Downloads\Projeto\Aula04Celular\obj\Debug\netcoreapp3.1\Aula04Celular.genruntimeconfig.cache
